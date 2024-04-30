@@ -4,11 +4,11 @@ This repository contains a collection of Python mini projects that cover various
 
 ## Projects List 📋
 
-1. [Guess the Number](#guess-the-number) 🔢
-2. [Random Password Generator](#random-password-generator) 🔑
-3. [LinkedIn Quick Responsive Code](#linkedin-quick-responsive-code) 💼
-4. [Text Speaker](#text-speaker) 🗣️
-5. [Weather Information](#weather-information) 🌦️
+1. [Guess the Number](#guess-the-number) 🔢: (https://github.com/isaar1/python_mini_projects/blob/main/folder1/1_project.py) 
+2. [Random Password Generator](#random-password-generator) 🔑: (https://github.com/isaar1/python_mini_projects/blob/main/folder2/2_project.py) 
+3. [LinkedIn Quick Responsive Code](#linkedin-quick-responsive-code) 💼: (https://github.com/isaar1/python_mini_projects/tree/main/folder3) 
+4. [Text Speaker](#text-speaker) 🗣️: (https://github.com/isaar1/python_mini_projects/blob/main/folder4/4_project.py) 
+5. [Weather Information](#weather-information) 🌦️: (https://github.com/isaar1/python_mini_projects/blob/main/folder5/5_project.py) 
 
 ---
 
